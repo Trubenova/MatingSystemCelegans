@@ -2,8 +2,8 @@
 This is code for investigating the consequences of mating systems for resistance evolution. 
 
 ## WormFunctionsMating.py 
-This is the main file containing all the classes (e.g. Experiment, Population) that are necessary to run the simulations. All details of the experiments are encoded here. 
-Individual outputs of the simulations are saved into individual files. 
+This is the main file containing all the classes (e.g., Experiment, Population) needed to run the simulations. All details of the experiments are encoded here. 
+Individual outputs of the simulations are saved in individual files. 
 
 ## MatingWormsCluster.ipynb and MatingWormsCluster2Loci.ipynb
 
